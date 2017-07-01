@@ -1,0 +1,11 @@
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "login@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "ramon@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "eliza@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "rafa@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "alice@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "ivo@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "willian@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "futebol@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "messi@teste.com", "senha" : "teste" }
+{ "_id" : { "$oid" : "5956de9db0dbe00dc78d06b3" }, "login" : "arg@teste.com", "senha" : "teste" }
+
